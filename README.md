@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-563" alt="harshit-563" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Legal Assistance**
+- 🔭 I’m currently working on [Smart Legal Assistance](https://github.com/Harshit-563/Smart-Legal-Assistant)
 
 - 🌱 I’m currently learning **NLP, Computer Vision**
 
