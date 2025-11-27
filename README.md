@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-563" alt="harshit-563" /></a> </p>
 
-- 🔭 I’m currently working on [K means Accelearation](https://github.com/Harshit-563/K-Means-using-OpenCL-)
-
+- 🔭 I’m currently working on [EduTrackAI-Tracks-institutional-performance-and-compliance](https://github.com/Harshit-563/EduTrackAI-Tracks-institutional-performance-and-compliance)
 - 🌱 I’m currently learning **NLP, Computer Vision**
 
 - 💬 Ask me about **Machine Learning**
