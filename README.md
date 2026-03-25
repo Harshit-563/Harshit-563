@@ -10,9 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harshit-563&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<p align = "center">
 ![](https://nirzak-streak-stats.vercel.app/?user=Harshit-563&theme=dark&hide_border=false)<br/>
-</p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-563&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
