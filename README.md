@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Final-year B.Tech (Information Technology) student, open to full-time <b>AI/ML</b>, <b>Data</b> and <b>Backend</b> roles.
+  Open to full-time <b>AI/ML</b>, <b>Data</b> and <b>Backend</b> roles.
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@
 ## 🧑‍💻 What I've Done
 
 - **AI & ML Intern @ Evoastra Ventures:** built a supply chain demand prediction system (Random Forest, XGBoost, Neural Networks) with FastAPI, Streamlit and Docker. [View work](https://drive.google.com/file/d/1fTjo8xUnRJOAn5NToYLaMV8YD-2fh6cQ/view)
-- **ML Intern @ Suvidha Foundation:** built a 50+ metric summarization evaluation pipeline, improving semantic quality by **12.5%** while cutting redundancy by **97%**.
 - **Smart India Hackathon 2025, Top 6:** led the team that built **EduTrackAI**.
 - **500+ DSA problems** solved on LeetCode.
 
@@ -31,7 +30,7 @@
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [**EduTrackAI**](https://github.com/Harshit-563/EduTrackAI-Tracks-institutional-performance-and-compliance) | Compliance and risk platform that ranks ~5,446 institutions using OCR validation, scoring and ML anomaly detection | Python, OCR, ML |
-| [**Smart Legal Assistant**](https://github.com/Harshit-563/Smart-Legal-Assistant) | Extracts key clauses, flags risky terms and summarizes contracts | NLP, Python |
+| [**Smart Legal Assistant**](https://github.com/Harshit-563/AI_DNS) | Extracts key clauses, flags risky terms and summarizes contracts | NLP, Python |
 | **Domain Watch** | Real-time DNS threat analyzer that labels domains as benign, suspicious, DGA or fast-flux | Python, ML, packet sniffing |
 
 ---
