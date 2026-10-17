@@ -15,6 +15,10 @@
   <a href="mailto:harsitmaurya555@gmail.com"><img src="https://img.shields.io/badge/Email-harsitmaurya555@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshit-563&label=Profile%20views&color=3340ff&style=for-the-badge" alt="Profile views" />
+</p>
+
 ---
 
 ## 🧑‍💻 What I've Done
@@ -100,16 +104,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-563&show_icons=true&locale=en" alt="Harshit-563 GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit-563&layout=compact&locale=en" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-563&show_icons=true&locale=en&theme=dark" alt="Harshit-563 GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit-563&layout=compact&locale=en&theme=dark" alt="Top languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-563" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-563&theme=dark" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harshit-563" alt="GitHub trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harshit-563&theme=darkhub" alt="GitHub trophies" /></a>
 </p>
 
 ---
