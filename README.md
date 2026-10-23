@@ -5,22 +5,28 @@
 </p>
 
 <p align="center">
+  <a href="https://harshit-563.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-harshit--563.github.io-3340ff?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshitmaurya563">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshit_Maurya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harsitmaurya555@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Harshit-563">
+    <img src="https://img.shields.io/badge/GitHub-Harshit--563-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+<p align="center">
   <b>Building practical AI systems across retrieval, LLM applications, NLP, and machine learning.</b>
   <br />
   Interested in turning research and prototypes into reliable, evaluated software.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Harshit-563/EduTrackAI-Tracks-institutional-performance-and-compliance">
-    <img src="https://img.shields.io/badge/🎓_EduTrackAI-SIH_2025_Top_6-7C3AED?style=for-the-badge" alt="EduTrackAI" />
-  </a>
-  <a href="https://github.com/Harshit-563/AI-Code-Investigator">
-    <img src="https://img.shields.io/badge/🔎_AI_Code_Investigator-Code_Intelligence-0284C7?style=for-the-badge" alt="AI Code Investigator" />
-  </a>
-</p>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshit-563&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Harshit-563?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Harshit-563?affiliations=OWNER&label=Stars&style=flat-square&logo=github" alt="GitHub Stars" />
 </p>
@@ -59,11 +65,15 @@ I enjoy building AI systems that combine clear data pipelines, retrieval and rea
 <h2 align="center">💼 Experience</h2>
 
 ### AI & ML Intern — Evoastra Ventures
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/bafb95fa-ac25-4e25-a9fc-a7121fae4c13" style="float: right; margin-left: 15px;" />
+
+
 
 - Worked on a supply-chain demand prediction system using Random Forest, XGBoost, and neural-network approaches.
 - Built a FastAPI backend and Streamlit interface to make model predictions accessible.
 - Used Docker to package the application environment.
-- [View work](https://drive.google.com/file/d/1fTjo8xUnRJOAn5NToYLaMV8YD-2fh6cQ/view)
+- [View Certificate](https://drive.google.com/file/d/1fTjo8xUnRJOAn5NToYLaMV8YD-2fh6cQ/view)
+- [View Work](https://github.com/Harshit-563/Sales-Demand-Predictor)
 
 ---
 
