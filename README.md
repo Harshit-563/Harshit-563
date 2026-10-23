@@ -25,8 +25,11 @@
   <img src="https://img.shields.io/github/stars/Harshit-563?affiliations=OWNER&label=Stars&style=flat-square&logo=github" alt="GitHub Stars" />
 </p>
 
+---
+
 <h2 align="center">👨‍💻 About Me</h2>
 
+```yaml
 name: Harshit Maurya
 role: AI/ML Engineer | GenAI Engineer
 education: B.Tech in Information Technology
@@ -47,14 +50,23 @@ core_tools:
   - LangChain, LangGraph, Hugging Face Transformers
   - PyTorch, scikit-learn, LightGBM
   - FastAPI, Flask, Docker, Git
+```
+
 I enjoy building AI systems that combine clear data pipelines, retrieval and reasoning components, measurable evaluation, and usable interfaces. My projects span RAG-based code investigation, agentic workflows, NLP applications, and traditional ML. I’m interested in engineering roles where I can contribute to the full lifecycle—from experimentation and evaluation to APIs and deployment.
+
+---
+
 <h2 align="center">💼 Experience</h2>
 
-AI & ML Intern — Evoastra Ventures
+### AI & ML Intern — Evoastra Ventures
+
 - Worked on a supply-chain demand prediction system using Random Forest, XGBoost, and neural-network approaches.
 - Built a FastAPI backend and Streamlit interface to make model predictions accessible.
 - Used Docker to package the application environment.
-- View work
+- [View work](https://drive.google.com/file/d/1fTjo8xUnRJOAn5NToYLaMV8YD-2fh6cQ/view)
+
+---
+
 <h2 align="center">📌 Featured Projects</h2>
 
 <table>
@@ -185,6 +197,8 @@ AI & ML Intern — Evoastra Ventures
   </tbody>
 </table>
 
+---
+
 <h2 align="center">🛠️ Technology Stack</h2>
 
 <h3 align="center">Generative AI, RAG & Agentic Systems</h3>
@@ -225,16 +239,21 @@ AI & ML Intern — Evoastra Ventures
   <img src="https://skillicons.dev/icons?i=py,cpp,c,postgres,mysql,mongodb,git,github,aws&theme=dark" alt="Programming, databases and tools" />
 </p>
 
+---
+
 <h2 align="center">🧠 Core Competencies</h2>
 
-- RAG & Retrieval: Document/code ingestion, chunking strategies, embeddings, semantic retrieval, context assembly, and retrieval-quality evaluation.
-- LLM Applications: Prompt design, Hugging Face Transformers, summarization, question generation, and context-aware applications.
-- Agentic AI: LangChain/LangGraph-based orchestration and multi-step agent workflows.
-- Code Intelligence: Repository scanning, AST-aware analysis, code retrieval, and automated documentation.
-- Machine Learning: Classification, regression, forecasting, feature engineering, and model evaluation.
-- NLP & Document Intelligence: Text classification, summarization, clause-focused analysis, and OCR-assisted validation.
-- AI Application Engineering: FastAPI/Flask services, Streamlit interfaces, Docker, and API testing.
-- Computer Science: Data Structures and Algorithms, C++, SQL, and database fundamentals.
+- **RAG & Retrieval:** Document/code ingestion, chunking strategies, embeddings, semantic retrieval, context assembly, and retrieval-quality evaluation.
+- **LLM Applications:** Prompt design, Hugging Face Transformers, summarization, question generation, and context-aware applications.
+- **Agentic AI:** LangChain/LangGraph-based orchestration and multi-step agent workflows.
+- **Code Intelligence:** Repository scanning, AST-aware analysis, code retrieval, and automated documentation.
+- **Machine Learning:** Classification, regression, forecasting, feature engineering, and model evaluation.
+- **NLP & Document Intelligence:** Text classification, summarization, clause-focused analysis, and OCR-assisted validation.
+- **AI Application Engineering:** FastAPI/Flask services, Streamlit interfaces, Docker, and API testing.
+- **Computer Science:** Data Structures and Algorithms, C++, SQL, and database fundamentals.
+
+---
+
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
@@ -242,8 +261,11 @@ AI & ML Intern — Evoastra Ventures
   <img src="https://img.shields.io/badge/DSA-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="500+ DSA Problems" />
 </p>
 
-- Smart India Hackathon 2025: Team project EduTrackAI reached the Top 6.
-- Data Structures & Algorithms: 500+ problems solved across coding-practice platforms.
+- **Smart India Hackathon 2025:** Team project EduTrackAI reached the Top 6.
+- **Data Structures & Algorithms:** 500+ problems solved across coding-practice platforms.
+
+---
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
@@ -255,11 +277,15 @@ AI & ML Intern — Evoastra Ventures
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-563&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
+---
+
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-563&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity" />
 </p>
+
+---
 
 <h2 align="center">🌱 Currently Exploring</h2>
 
@@ -272,6 +298,8 @@ AI & ML Intern — Evoastra Ventures
 <p align="center">
   Open-source GenAI tools • RAG applications • Agentic AI • Code intelligence • Practical ML systems
 </p>
+
+---
 
 <h2 align="center">📫 Connect With Me</h2>
 
