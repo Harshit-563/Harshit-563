@@ -63,7 +63,8 @@ I enjoy building AI systems that combine clear data pipelines, retrieval and rea
 - Worked on a supply-chain demand prediction system using Random Forest, XGBoost, and neural-network approaches.
 - Built a FastAPI backend and Streamlit interface to make model predictions accessible.
 - Used Docker to package the application environment.
-- [View work](https://drive.google.com/file/d/1fTjo8xUnRJOAn5NToYLaMV8YD-2fh6cQ/view)
+- [View Certificate](https://drive.google.com/file/d/1fTjo8xUnRJOAn5NToYLaMV8YD-2fh6cQ/view)
+- [View Work](https://github.com/Harshit-563/Sales-Demand-Predictor)
 
 ---
 
@@ -95,21 +96,6 @@ I enjoy building AI systems that combine clear data pipelines, retrieval and rea
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Harshit-563/Agent_Coco"><b>🤖 Agent_Coco</b></a>
-        <br />
-        <a href="https://github.com/Harshit-563/Agent_Coco">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Agent_Coco" />
-        </a>
-      </td>
-      <td>
-        An autonomous legacy-code documentation agent intended to help developers navigate unfamiliar repositories.
-        <br /><br />
-        <b>Focus:</b> Codebase analysis and agent-assisted documentation workflows.
-      </td>
-      <td>Python • LLM Agents • Code Intelligence</td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://github.com/Harshit-563/AI_DNS"><b>🧠 AI_DNS — Agentic RAG System</b></a>
         <br />
         <a href="https://github.com/Harshit-563/AI_DNS">
@@ -122,36 +108,6 @@ I enjoy building AI systems that combine clear data pipelines, retrieval and rea
         <b>Focus:</b> Retrieval components, embedding-based search, and multi-step orchestration for context-aware responses.
       </td>
       <td>Python • LangChain • LangGraph • RAG</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Harshit-563/Smart-Legal-Assistant"><b>⚖️ Smart Legal Assistant</b></a>
-        <br />
-        <a href="https://github.com/Harshit-563/Smart-Legal-Assistant">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Smart Legal Assistant" />
-        </a>
-      </td>
-      <td>
-        An NLP application for assisting with legal-document review.
-        <br /><br />
-        <b>Focus:</b> Contract summarization, clause-focused analysis, and identifying potentially risky language.
-      </td>
-      <td>Python • FastAPI • Hugging Face Transformers • NLP • Docker</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Harshit-563/AutoScholar-Summarize-Research-Paper-and-Question-Generator"><b>📚 AutoScholar</b></a>
-        <br />
-        <a href="https://github.com/Harshit-563/AutoScholar-Summarize-Research-Paper-and-Question-Generator">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View AutoScholar" />
-        </a>
-      </td>
-      <td>
-        A research-paper assistant for summarizing academic material and generating questions to support study.
-        <br /><br />
-        <b>Focus:</b> Long-form text processing, summarization, and question generation.
-      </td>
-      <td>Python • NLP • Transformers</td>
     </tr>
     <tr>
       <td>
@@ -170,33 +126,19 @@ I enjoy building AI systems that combine clear data pipelines, retrieval and rea
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Harshit-563/Sales-Forecasting-with-prophet"><b>📈 Sales Forecasting with Prophet</b></a>
+        <a href="https://github.com/Harshit-563/Sales-Demand-Predictor"><b>📈 Sales Demand Predictor</b></a>
         <br />
-        <a href="https://github.com/Harshit-563/Sales-Forecasting-with-prophet">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Sales Forecasting" />
+        <a href="https://github.com/Harshit-563/Sales-Demand-Predictor">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Sales Demand Predictor" />
         </a>
       </td>
       <td>
-        A forecasting application for exploring historical sales trends and generating future predictions.
+        A machine-learning project focused on predicting sales demand from data.
       </td>
-      <td>Python • Prophet • Flask • Chart.js</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Harshit-563/Smart-Product-Pricing-using-Machine-Learning"><b>🏷️ Smart Product Pricing</b></a>
-        <br />
-        <a href="https://github.com/Harshit-563/Smart-Product-Pricing-using-Machine-Learning">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Smart Product Pricing" />
-        </a>
-      </td>
-      <td>
-        A multimodal machine-learning approach to product-price prediction, combining structured product data with text and image features.
-      </td>
-      <td>Python • LightGBM • TF-IDF • ResNet50 • scikit-learn</td>
+      <td>Python • Machine Learning • Demand Prediction</td>
     </tr>
   </tbody>
 </table>
-
 ---
 
 <h2 align="center">🛠️ Technology Stack</h2>
