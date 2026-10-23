@@ -1,21 +1,21 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Harshit%20Maurya&fontSize=62&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer&descAlignY=60&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Harshit%20Maurya&fontSize=62&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI%20%2F%20ML%20%7C%20GenAI%20Engineer&descAlignY=60&descSize=22" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=AI+%2F+ML+Engineer;Forecasting+%26+Demand+Prediction;NLP+%26+LLM+Agents;Anomaly+Detection+%26+Threat+Analysis;Building+ML+Systems+for+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=AI+%2F+ML+Engineer;RAG+Pipelines+%26+LLM+Applications;Agentic+AI+with+LangChain+%26+LangGraph;NLP%2C+Embeddings+%26+Retrieval;Building+Practical+AI+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Building machine learning systems that work in production.</b>
+  <b>Building practical AI systems across retrieval, LLM applications, NLP, and machine learning.</b>
   <br />
-  Focused on forecasting, NLP, anomaly detection, and LLM agents.
+  Interested in turning research and prototypes into reliable, evaluated software.
 </p>
 
 <p align="center">
   <a href="https://github.com/Harshit-563/EduTrackAI-Tracks-institutional-performance-and-compliance">
     <img src="https://img.shields.io/badge/🎓_EduTrackAI-SIH_2025_Top_6-7C3AED?style=for-the-badge" alt="EduTrackAI" />
   </a>
-  <a href="https://github.com/Harshit-563/AI_DNS">
-    <img src="https://img.shields.io/badge/⚖️_Smart_Legal_Assistant-NLP_Contract_Analysis-0284C7?style=for-the-badge" alt="Smart Legal Assistant" />
+  <a href="https://github.com/Harshit-563/AI-Code-Investigator">
+    <img src="https://img.shields.io/badge/🔎_AI_Code_Investigator-Code_Intelligence-0284C7?style=for-the-badge" alt="AI Code Investigator" />
   </a>
 </p>
 
@@ -25,171 +25,225 @@
   <img src="https://img.shields.io/github/stars/Harshit-563?affiliations=OWNER&label=Stars&style=flat-square&logo=github" alt="GitHub Stars" />
 </p>
 
----
-
 <h2 align="center">👨‍💻 About Me</h2>
 
-```yaml
 name: Harshit Maurya
-role: AI/ML Engineer
-education: B.Tech in Information Technology (final year)
-status: Open to full-time AI/ML, Data and Backend roles
+role: AI/ML Engineer | GenAI Engineer
+education: B.Tech in Information Technology
+college: BIET Jhansi
+graduation: 2026
+status: Open to AI/ML, GenAI, and software engineering opportunities
 
-specialization:
-  - Demand forecasting and supply chain prediction
-  - Natural Language Processing (NLP)
-  - Anomaly detection and DNS threat analysis
-  - OCR validation and document intelligence
-  - LLM agents and applications
-  - ML model deployment with FastAPI, Streamlit and Docker
+focus_areas:
+  - Retrieval-Augmented Generation (RAG) and retrieval pipelines
+  - LLM applications and agentic workflows
+  - Code intelligence and automated documentation
+  - NLP, document understanding, and summarization
+  - Machine learning, forecasting, and model evaluation
+  - API development and containerized applications
 
-languages:
-  - Python
-  - C++
-  - C
-  - SQL
-
-currently_exploring:
-  - LangGraph and agent workflows
-  - MLOps and model deployment
-  - System design for ML applications
-```
-
-I enjoy building ML systems that go beyond notebooks: clean data pipelines, models that are evaluated properly, and services that can actually be deployed and used. I'm looking for roles where I can ship real ML to real users.
-
----
-
+core_tools:
+  - Python, SQL, C++
+  - LangChain, LangGraph, Hugging Face Transformers
+  - PyTorch, scikit-learn, LightGBM
+  - FastAPI, Flask, Docker, Git
+I enjoy building AI systems that combine clear data pipelines, retrieval and reasoning components, measurable evaluation, and usable interfaces. My projects span RAG-based code investigation, agentic workflows, NLP applications, and traditional ML. I’m interested in engineering roles where I can contribute to the full lifecycle—from experimentation and evaluation to APIs and deployment.
 <h2 align="center">💼 Experience</h2>
 
-### AI & ML Intern — Evoastra Ventures
-
-- Built a supply chain demand prediction system using Random Forest, XGBoost and Neural Networks.
-- Served the models through a FastAPI backend with a Streamlit interface, and containerized the whole stack with Docker.
-- [View work](https://drive.google.com/file/d/1fTjo8xUnRJOAn5NToYLaMV8YD-2fh6cQ/view)
-
----
-
+AI & ML Intern — Evoastra Ventures
+- Worked on a supply-chain demand prediction system using Random Forest, XGBoost, and neural-network approaches.
+- Built a FastAPI backend and Streamlit interface to make model predictions accessible.
+- Used Docker to package the application environment.
+- View work
 <h2 align="center">📌 Featured Projects</h2>
 
 <table>
   <thead>
     <tr>
       <th>🚀 Project</th>
-      <th>📖 Description</th>
-      <th>⚙️ Technology Stack</th>
+      <th>📖 What it does</th>
+      <th>⚙️ Technology / Focus</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/Harshit-563/EduTrackAI-Tracks-institutional-performance-and-compliance">
-          <b>🎓 EduTrackAI</b>
+        <a href="https://github.com/Harshit-563/AI-Code-Investigator"><b>🔎 AI Code Investigator</b></a>
+        <br />
+        <a href="https://github.com/Harshit-563/AI-Code-Investigator">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View AI Code Investigator" />
         </a>
+      </td>
+      <td>
+        An AI-assisted code-analysis pipeline designed to investigate repositories and make codebases easier to understand.
+        <br /><br />
+        <b>Focus:</b> Repository scanning, AST-aware analysis, code chunking, embeddings, retrieval, and context-grounded investigation.
+      </td>
+      <td>Python • AST • Embeddings • Retrieval • RAG</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Harshit-563/Agent_Coco"><b>🤖 Agent_Coco</b></a>
+        <br />
+        <a href="https://github.com/Harshit-563/Agent_Coco">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Agent_Coco" />
+        </a>
+      </td>
+      <td>
+        An autonomous legacy-code documentation agent intended to help developers navigate unfamiliar repositories.
+        <br /><br />
+        <b>Focus:</b> Codebase analysis and agent-assisted documentation workflows.
+      </td>
+      <td>Python • LLM Agents • Code Intelligence</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Harshit-563/AI_DNS"><b>🧠 AI_DNS — Agentic RAG System</b></a>
+        <br />
+        <a href="https://github.com/Harshit-563/AI_DNS">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View AI_DNS" />
+        </a>
+      </td>
+      <td>
+        An agentic AI / RAG project exploring retrieval-connected workflows with LangChain and LangGraph.
+        <br /><br />
+        <b>Focus:</b> Retrieval components, embedding-based search, and multi-step orchestration for context-aware responses.
+      </td>
+      <td>Python • LangChain • LangGraph • RAG</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Harshit-563/Smart-Legal-Assistant"><b>⚖️ Smart Legal Assistant</b></a>
+        <br />
+        <a href="https://github.com/Harshit-563/Smart-Legal-Assistant">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Smart Legal Assistant" />
+        </a>
+      </td>
+      <td>
+        An NLP application for assisting with legal-document review.
+        <br /><br />
+        <b>Focus:</b> Contract summarization, clause-focused analysis, and identifying potentially risky language.
+      </td>
+      <td>Python • FastAPI • Hugging Face Transformers • NLP • Docker</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Harshit-563/AutoScholar-Summarize-Research-Paper-and-Question-Generator"><b>📚 AutoScholar</b></a>
+        <br />
+        <a href="https://github.com/Harshit-563/AutoScholar-Summarize-Research-Paper-and-Question-Generator">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View AutoScholar" />
+        </a>
+      </td>
+      <td>
+        A research-paper assistant for summarizing academic material and generating questions to support study.
+        <br /><br />
+        <b>Focus:</b> Long-form text processing, summarization, and question generation.
+      </td>
+      <td>Python • NLP • Transformers</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Harshit-563/EduTrackAI-Tracks-institutional-performance-and-compliance"><b>🎓 EduTrackAI</b></a>
         <br />
         <a href="https://github.com/Harshit-563/EduTrackAI-Tracks-institutional-performance-and-compliance">
           <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View EduTrackAI" />
         </a>
       </td>
       <td>
-        Compliance and risk platform that ranks about 5,446 institutions.
+        Institutional performance and compliance analytics, including OCR validation, institutional scoring, and ML-based anomaly detection.
         <br /><br />
-        <b>Key features:</b> OCR validation, institutional scoring, and ML-based anomaly detection. Built by the team I led at Smart India Hackathon 2025, where we placed in the Top 6.
+        <b>Achievement:</b> Team project that reached the Top 6 at Smart India Hackathon 2025.
       </td>
-      <td>
-        Python • OCR • Machine Learning
-      </td>
+      <td>Python • OCR • Machine Learning • Anomaly Detection</td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Harshit-563/AI_DNS">
-          <b>⚖️ Smart Legal Assistant</b>
-        </a>
+        <a href="https://github.com/Harshit-563/Sales-Forecasting-with-prophet"><b>📈 Sales Forecasting with Prophet</b></a>
         <br />
-        <a href="https://github.com/Harshit-563/AI_DNS">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Smart Legal Assistant" />
+        <a href="https://github.com/Harshit-563/Sales-Forecasting-with-prophet">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Sales Forecasting" />
         </a>
       </td>
       <td>
-        NLP assistant for contract review.
-        <br /><br />
-        <b>Key features:</b> Key clause extraction, risky term flagging, and contract summarization.
+        A forecasting application for exploring historical sales trends and generating future predictions.
       </td>
-      <td>
-        Python • NLP
-      </td>
+      <td>Python • Prophet • Flask • Chart.js</td>
     </tr>
     <tr>
       <td>
-        <b>🛡️ Domain Watch</b>
+        <a href="https://github.com/Harshit-563/Smart-Product-Pricing-using-Machine-Learning"><b>🏷️ Smart Product Pricing</b></a>
+        <br />
+        <a href="https://github.com/Harshit-563/Smart-Product-Pricing-using-Machine-Learning">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Smart Product Pricing" />
+        </a>
       </td>
       <td>
-        Real-time DNS threat analyzer.
-        <br /><br />
-        <b>Key features:</b> Classifies domains as benign, suspicious, DGA, or fast-flux using live packet sniffing and ML.
+        A multimodal machine-learning approach to product-price prediction, combining structured product data with text and image features.
       </td>
-      <td>
-        Python • Machine Learning • Packet Sniffing
-      </td>
+      <td>Python • LightGBM • TF-IDF • ResNet50 • scikit-learn</td>
     </tr>
   </tbody>
 </table>
 
----
-
 <h2 align="center">🛠️ Technology Stack</h2>
 
-<h3 align="center">Machine Learning, NLP & LLMs</h3>
+<h3 align="center">Generative AI, RAG & Agentic Systems</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-0F766E?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-LLM_Applications-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-Agent_Workflows-2563EB?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
+</p>
+
+<p align="center">
+  Embeddings • Text Chunking • Semantic Retrieval • Context Assembly • Prompt Design • LLM Orchestration • Retrieval Evaluation
+</p>
+
+<h3 align="center">Machine Learning, Deep Learning & NLP</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,pandas&theme=dark" alt="ML tools" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Transformers-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/XGBoost-Gradient_Boosting-189FDD?style=for-the-badge" alt="XGBoost" />
+  Supervised Learning • Model Evaluation • Forecasting • Text Summarization • Classification • Feature Engineering
 </p>
 
-<h3 align="center">Backend, Deployment & APIs</h3>
+<h3 align="center">Backend, APIs & Deployment</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Streamlit-Data_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-<h3 align="center">Programming, Databases & Infrastructure</h3>
+<h3 align="center">Programming, Databases & Developer Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,react,nodejs,django,postgres,mysql,mongodb,sqlite,docker,aws,grafana,git,github,figma&theme=dark" alt="Programming, databases and infrastructure" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,postgres,mysql,mongodb,git,github,aws&theme=dark" alt="Programming, databases and tools" />
 </p>
-
----
 
 <h2 align="center">🧠 Core Competencies</h2>
 
-- **Machine Learning:** Demand forecasting, ensemble models (Random Forest, XGBoost), neural networks, and model evaluation.
-- **NLP:** Clause extraction, risk detection, and document summarization.
-- **Anomaly Detection & Security:** DNS threat classification, DGA and fast-flux detection, and ML-based compliance risk scoring.
-- **Document Intelligence:** OCR validation and structured scoring pipelines.
-- **ML Deployment:** FastAPI services, Streamlit interfaces, and Docker containerization.
-- **Computer Science:** Data Structures and Algorithms, C++, SQL, and database fundamentals.
-
----
-
+- RAG & Retrieval: Document/code ingestion, chunking strategies, embeddings, semantic retrieval, context assembly, and retrieval-quality evaluation.
+- LLM Applications: Prompt design, Hugging Face Transformers, summarization, question generation, and context-aware applications.
+- Agentic AI: LangChain/LangGraph-based orchestration and multi-step agent workflows.
+- Code Intelligence: Repository scanning, AST-aware analysis, code retrieval, and automated documentation.
+- Machine Learning: Classification, regression, forecasting, feature engineering, and model evaluation.
+- NLP & Document Intelligence: Text classification, summarization, clause-focused analysis, and OCR-assisted validation.
+- AI Application Engineering: FastAPI/Flask services, Streamlit interfaces, Docker, and API testing.
+- Computer Science: Data Structures and Algorithms, C++, SQL, and database fundamentals.
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Smart%20India%20Hackathon%202025-Top%206-2563EB?style=for-the-badge" alt="Smart India Hackathon 2025 Top 6" />
-  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 500+ Problems" />
+  <img src="https://img.shields.io/badge/DSA-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="500+ DSA Problems" />
 </p>
 
-- **Smart India Hackathon 2025:** Led the team to a Top 6 finish with EduTrackAI.
-- **LeetCode:** 500+ Data Structures and Algorithms problems solved.
-
----
-
+- Smart India Hackathon 2025: Team project EduTrackAI reached the Top 6.
+- Data Structures & Algorithms: 500+ problems solved across coding-practice platforms.
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
@@ -201,29 +255,23 @@ I enjoy building ML systems that go beyond notebooks: clean data pipelines, mode
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-563&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
----
-
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-563&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity" />
 </p>
 
----
-
 <h2 align="center">🌱 Currently Exploring</h2>
 
 <p align="center">
-  LangGraph • Agent Workflows • MLOps • Model Deployment • System Design for ML
+  RAG Evaluation • Agent Reliability • LLM Evaluation • MLOps • Model Serving • AI System Design
 </p>
 
 <h2 align="center">🤝 Open to Collaborating On</h2>
 
 <p align="center">
-  Open-source AI tools • LLM and agent projects • Real-world ML problems
+  Open-source GenAI tools • RAG applications • Agentic AI • Code intelligence • Practical ML systems
 </p>
-
----
 
 <h2 align="center">📫 Connect With Me</h2>
 
@@ -243,7 +291,7 @@ I enjoy building ML systems that go beyond notebooks: clean data pipelines, mode
 </p>
 
 <p align="center">
-  <i>"Build models that matter. Ship them to production. Keep improving."</i> 🚀
+  <i>"Build useful AI. Evaluate it carefully. Make it usable."</i> 🚀
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=30,24,20,12" />
