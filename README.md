@@ -29,6 +29,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Harshit-563?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Harshit-563?affiliations=OWNER&label=Stars&style=flat-square&logo=github" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Harshit-563&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
