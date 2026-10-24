@@ -66,29 +66,42 @@ I enjoy building AI systems that combine clear data pipelines, retrieval and rea
 
 <table width="100%">
   <tr>
-      <td colspan="2" align="center">
-      <img
-        width="100"
-        height="100"
-        alt="Evoastra Ventures Internship"
-        src="https://github.com/user-attachments/assets/bafb95fa-ac25-4e25-a9fc-a7121fae4c13"
-      />
+    <td width="80">
+      <img width="60" src="https://github.com/user-attachments/assets/bafb95fa-ac25-4e25-a9fc-a7121fae4c13" alt="Evoastra Ventures Logo"/>
     </td>
-    <td align="left">
-      <h3>AI & ML Intern — Evoastra Ventures</h3>
+    <td>
+      <strong>AI &amp; ML Intern — Evoastra Ventures</strong>
     </td>
-    <td align="right">
+    <td align="right" nowrap>
       <strong>Feb 2026 – Mar 2026</strong>
     </td>
   </tr>
 </table>
 
-
-- Worked on a supply-chain demand prediction system using Random Forest, XGBoost, and neural-network approaches.
+- Developed a supply-chain demand prediction system using Random Forest, XGBoost, and neural-network approaches.
 - Built a FastAPI backend and Streamlit interface to make model predictions accessible.
-- Used Docker to package the application environment.
-- [View Certificate](https://drive.google.com/file/d/1fTjo8xUnRJOAn5NToYLaMV8YD-2fh6cQ/view)
-- [View Work](https://github.com/Harshit-563/Sales-Demand-Predictor)
+- Containerized the application using Docker.
+- **Links:** [Certificate](https://drive.google.com/file/d/1fTjo8xUnRJOAn5NToYLaMV8YD-2fh6cQ/view) · [Project](https://github.com/Harshit-563/Sales-Demand-Predictor)
+
+---
+
+<table width="100%">
+  <tr>
+    <td width="80">
+      <img width="60" src="https://github.com/user-attachments/assets/c85d0520-99a8-4377-9939-a15640a73402" alt="Suvidha Foundation Logo"/>
+    </td>
+    <td>
+      <strong>Machine Learning Intern — Suvidha Foundation</strong>
+    </td>
+    <td align="right" nowrap>
+      <strong>Apr 2026 – May 2026</strong>
+    </td>
+  </tr>
+</table>
+
+- Developed a Python pipeline to clean and preprocess the NewsSumm and NewsSumm++ article-summary datasets, including duplicate filtering and named-entity feature extraction.
+- Evaluated dataset characteristics using lexical, structural, readability, entity-coverage, and overlap metrics, alongside TF-IDF cosine similarity and ROUGE.
+- **Links:** [Certificate](https://drive.google.com/file/d/1aWBfpk6-Ju3pDcfCpCh4kqnTwlNJemVb/view?usp=drive_link) · [Project](https://github.com/Harshit-563/NewsSumm-Dataset-Evaluation-)
 
 ---
 
