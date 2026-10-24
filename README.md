@@ -300,14 +300,6 @@ I enjoy building AI systems that combine clear data pipelines, retrieval and rea
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-563&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity" />
-</p>
-
----
-
 <h2 align="center">🌱 Currently Exploring</h2>
 
 <p align="center">
