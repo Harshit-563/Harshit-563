@@ -198,7 +198,10 @@ I enjoy building AI systems that combine clear data pipelines, retrieval and rea
 <h3 align="center">2. Machine Learning, Deep Learning & NLP</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,opencv&theme=dark" alt="ML tools" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="PyTorch, TensorFlow, OpenCV" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="Scikit-learn" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy" />
 </p>
 
 <p align="center">
