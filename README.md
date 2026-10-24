@@ -1,7 +1,25 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Harshit%20Maurya&fontSize=62&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI%20%2F%20ML%20%7C%20GenAI%20Engineer&descAlignY=60&descSize=22" />
+<!-- Animated Header -->
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Harshit%20Maurya&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20%7C%20Generative%20AI%20%7C%20LLM%20Systems&descSize=18&descAlignY=58&descColor=E2E8F0"
+  alt="Harshit Maurya — AI/ML and Generative AI Engineer"
+/>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=AI+%2F+ML+Engineer;RAG+Pipelines+%26+LLM+Applications;Agentic+AI+with+LangChain+%26+LangGraph;NLP%2C+Embeddings+%26+Retrieval;Building+Practical+AI+Systems" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Practical+AI+Systems;Machine+Learning+%26+Predictive+Modeling;Deep+Learning+%26+Neural+Networks;NLP+%7C+Embeddings+%7C+Semantic+Search;Retrieval-Augmented+Generation+%28RAG%29;LLM+Applications+%26+Agentic+AI;LangChain+%7C+LangGraph+%7C+Hugging+Face"
+    alt="Machine Learning, Deep Learning, NLP, RAG, and Agentic AI"
+/>
+</p>
+
+<!-- Subtle Divider -->
+<p align="center">
+  <img
+    width="60%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,100:06B6D4"
+    alt=""
+  />
 </p>
 
 <p align="center">
