@@ -64,9 +64,24 @@ I enjoy building AI systems that combine clear data pipelines, retrieval and rea
 
 <h2 align="center">💼 Experience</h2>
 
-### AI & ML Intern — Evoastra Ventures
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/bafb95fa-ac25-4e25-a9fc-a7121fae4c13" style="float: right; margin-left: 15px;" />
-
+<table width="100%">
+  <tr>
+      <td colspan="2" align="center">
+      <img
+        width="100"
+        height="100"
+        alt="Evoastra Ventures Internship"
+        src="https://github.com/user-attachments/assets/bafb95fa-ac25-4e25-a9fc-a7121fae4c13"
+      />
+    </td>
+    <td align="left">
+      <h3>AI & ML Intern — Evoastra Ventures</h3>
+    </td>
+    <td align="right">
+      <strong>Feb 2026 – Mar 2026</strong>
+    </td>
+  </tr>
+</table>
 
 
 - Worked on a supply-chain demand prediction system using Random Forest, XGBoost, and neural-network approaches.
